@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [Artron Shop Co.,Ltd.](https://www.artronshop.co.th/) (CEO)
 - 🌱 I’m currently learning C/C++ & Arduino & Microcontroller & NodeJS & Next.js
 - 👯 I’m looking to collaborate on C/C++
-- 💬 Ask me about C/C++ , Arduino , MicroPython , Microcontroller
+- 💬 Ask me about C/C++ , Arduino , MicroPython , Microcontroller , Web Development , IoT system
 - 😄 Pronouns: Max
 - ⚡ Fun fact: Programming , Electronic PCB design , Circuit design
 
